@@ -1,7 +1,7 @@
 # iOS Class Portfolio
 2018-2019 Portfolio
 
-Each application's folder contains a README file which gives a basic description of the app along with a summary of what I learned through the developing process.
+Located in every application's folder, there is a README file that gives a basic description of the app along with a summary detailing new concepts I learned from developing the app.
 
 [Completed Apps](https://github.com/nicodigiovanni/iosClassFinishedProjects)
 
